@@ -60,3 +60,4 @@ UPDATE `tbl_product` SET
 							WHERE
 								`productcode`=5;
 SELECT * FROM `tbl_product`;
+
